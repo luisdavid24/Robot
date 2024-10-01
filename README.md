@@ -11,5 +11,9 @@ PY:https://www.python.org/downloads/
 
 Extesiones en visual: Robot Framerowk Intellisense
 
+Variables de entorno (chrome):
+Dentro de path   \chrome-win64
+
+
 
 
