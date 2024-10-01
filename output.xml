@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.12.0 on win32)" generated="20241001 11:11:25.145" rpa="false" schemaversion="4">
+<suite id="s1" name="Practica#3" source="c:\Users\david\OneDrive\Documentos\curso_python\practicas\Practica#3.robot">
+<test id="s1-t1" name="Prueba" line="24">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>${URL}</arg>
+<arg>${BROWSER}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20241001 11:11:25.424" level="INFO">Opening browser 'chrome' to base url 'https://demoqa.com/alerts'.</msg>
+<errors>
+<msg timestamp="20241001 11:11:37.935" level="ERROR">Execution stopped by user.</msg>
+</errors>
+</robot>
